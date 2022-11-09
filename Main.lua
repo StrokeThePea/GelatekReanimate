@@ -1,7 +1,7 @@
 
 	local Bindable = Instance.new("BindableFunction")
 	local function Copy(e)
-		setclipboard("https://raw.githubusercontent.com/Gelatekussy/GelatekReanimate/main/Main.lua")
+		setclipboard("https://cdn.discordapp.com/attachments/1000489602404057152/1039915926004445284/image.png")
 		Bindable:Destroy()
 	end
 	Bindable.OnInvoke = Copy
