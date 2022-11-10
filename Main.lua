@@ -13,3 +13,4 @@
 		Button1 = "Copy";
 	})
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gelatekussy/GelatekReanimate/main/Main.lua"))()
